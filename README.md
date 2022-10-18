@@ -9,10 +9,14 @@ see https://trufflesuite.com/guides/pet-shop/
 ## run the Dapp
 To make it run:
 - clone the repository
+- cd in the proejct folder
 - npm install
-- launch Ganache (GUI)
+- install truffle
+- - launch Ganache (GUI)
+- run truffle compile
+- run truffle migrate to depoly the smart contract in the Ganache local network
 - make sure Metamask is installed
 - import an account of Ganache in your Metamask
 - switch Metamask to your local Ganache network
-- launch the application with npm run dev
+- launch the application from terminal with npm run dev
 
