@@ -14,5 +14,5 @@ To make it run:
 - make sure Metamask is installed
 - import an account of Ganache in your Metamask
 - switch Metamask to your local Ganache network
-- lauch the application wuth mpn run dev
+- launch the application with npm run dev
 
